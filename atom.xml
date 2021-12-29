@@ -6,7 +6,7 @@
   <link href="https://dkteam.top/atom.xml" rel="self"/>
   
   <link href="https://dkteam.top/"/>
-  <updated>2021-12-29T02:07:57.033Z</updated>
+  <updated>2021-12-29T08:29:23.028Z</updated>
   <id>https://dkteam.top/</id>
   
   <author>
@@ -17,9 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>RT-THREAD AI KIT 简介</title>
+    <link href="https://dkteam.top/2021/12/29/2.rt-thread-ai/rt-thread-ai-kit-jian-jie-ji-shi-yan/"/>
+    <id>https://dkteam.top/2021/12/29/2.rt-thread-ai/rt-thread-ai-kit-jian-jie-ji-shi-yan/</id>
+    <published>2021-12-29T08:00:48.000Z</published>
+    <updated>2021-12-29T08:29:23.028Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;实验一-RT-THREAD-AI-KIT-简介&quot;&gt;&lt;a href=&quot;#实验一-RT-THREAD-AI-KIT-简介&quot; class=&quot;headerlink&quot; title=&quot;实验一    RT-THREAD AI KIT 简介&quot;&gt;&lt;/a&gt;实验一   </summary>
+        
+      
+    
+    
+    
+    <category term="AI嵌入式实现" scheme="https://dkteam.top/categories/AI%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%AE%9E%E7%8E%B0/"/>
+    
+    
+    <category term="RT-AK" scheme="https://dkteam.top/tags/RT-AK/"/>
+    
+    <category term="AI部署" scheme="https://dkteam.top/tags/AI%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Matery操作指南</title>
-    <link href="https://dkteam.top/2021/12/29/matery-cao-zuo-zhi-nan/"/>
-    <id>https://dkteam.top/2021/12/29/matery-cao-zuo-zhi-nan/</id>
+    <link href="https://dkteam.top/2021/12/29/1.ge-ren-bo-ke-da-jian/2.matery-cao-zuo-zhi-nan/"/>
+    <id>https://dkteam.top/2021/12/29/1.ge-ren-bo-ke-da-jian/2.matery-cao-zuo-zhi-nan/</id>
     <published>2021-12-29T02:03:20.000Z</published>
     <updated>2021-12-29T02:07:57.033Z</updated>
     
@@ -45,8 +72,8 @@
   
   <entry>
     <title>Gitee+Hexo搭建个人博客</title>
-    <link href="https://dkteam.top/2021/12/28/gitee-hexo-da-jian-ge-ren-bo-ke/"/>
-    <id>https://dkteam.top/2021/12/28/gitee-hexo-da-jian-ge-ren-bo-ke/</id>
+    <link href="https://dkteam.top/2021/12/28/1.ge-ren-bo-ke-da-jian/1.gitee-hexo-da-jian-ge-ren-bo-ke/"/>
+    <id>https://dkteam.top/2021/12/28/1.ge-ren-bo-ke-da-jian/1.gitee-hexo-da-jian-ge-ren-bo-ke/</id>
     <published>2021-12-28T01:48:30.304Z</published>
     <updated>2021-12-29T02:09:01.012Z</updated>
     
